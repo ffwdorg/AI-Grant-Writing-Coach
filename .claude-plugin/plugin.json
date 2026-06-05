@@ -1,0 +1,12 @@
+{
+  "name": "ffwd-proposal-prep",
+  "description": "AI Proposal Prep by Fast Forward — stress-test your grant proposal before you submit. Runs 11 structured checks across problem clarity, solution fit, team capacity, impact measurement, and funder alignment.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Fast Forward",
+    "url": "https://ffwd.org"
+  },
+  "homepage": "https://ffwd.org/tools/proposal-prep",
+  "repository": "https://github.com/ffwdorg/proposal-prep",
+  "license": "Apache-2.0"
+}
