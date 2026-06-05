@@ -26,7 +26,7 @@ Open the Custom GPT: [chatgpt.com/g/g-PLACEHOLDER](#)
 
 ### Gemini
 
-Open the Gem: [gemini.google.com/gems/PLACEHOLDER](#)
+Open the Gem: https://gemini.google.com/gem/1EOKtC8V4_uyvUbYAriTdfTD4jSjmWxN5?usp=sharing
 
 ---
 
