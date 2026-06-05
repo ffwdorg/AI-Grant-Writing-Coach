@@ -22,7 +22,7 @@ Or install from the community marketplace once listed:
 
 ### ChatGPT
 
-Open the Custom GPT: [chatgpt.com/g/g-PLACEHOLDER](#)
+Open the Custom GPT: https://chatgpt.com/g/g-6a235c871f808191bdcb22c951569dae-fast-forward-grant-proposal-prep
 
 ### Gemini
 
