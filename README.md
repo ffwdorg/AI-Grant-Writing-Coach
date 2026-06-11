@@ -1,6 +1,6 @@
 # Fast Forward AI Proposal Prep
 
-Stress-test your AI grant proposal before you submit. 11 structured checks across problem clarity, solution fit, team capacity, impact measurement, and funder alignment.
+Stress-test your AI grant proposal before you submit. 14 structured checks across problem clarity, solution fit, team capacity, impact, theory of change, sustainability, systems thinking, and funder alignment.
 
 Built by [Fast Forward](https://ffwd.org) for tech nonprofits.
 
@@ -40,7 +40,7 @@ Open the Gem: https://gemini.google.com/gem/1EOKtC8V4_uyvUbYAriTdfTD4jSjmWxN5?us
 
 ## Skills
 
-### Stress-Test (7 checks)
+### Stress-Test (10 checks)
 
 | Skill | What it checks | Invoke with |
 |---|---|---|
@@ -49,6 +49,9 @@ Open the Gem: https://gemini.google.com/gem/1EOKtC8V4_uyvUbYAriTdfTD4jSjmWxN5?us
 | `lived-experience` | Does the team have lived experience with the problem? | "Run lived experience" |
 | `team-capacity` | Can the team actually deliver? | "Run team capacity" |
 | `impact-measurement` | Are you measuring outcomes or just outputs? | "Run impact check" |
+| `theory-of-change` | Is your theory of change explicit and credible? | "Run theory of change" |
+| `sustainability` | What happens to the work after the grant ends? | "Run sustainability" |
+| `systems-thinking` | Does the solution understand the system it's entering? | "Run systems thinking" |
 | `funder-alignment` | Is this proposal the right fit for this funder? | "Run funder alignment" |
 | `ai-specifics` | Are the AI claims credible and responsible? | "Run AI check" |
 
