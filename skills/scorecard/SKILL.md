@@ -1,5 +1,5 @@
 ---
-description: Score a grant proposal criterion by criterion using a 1/2/3 scale, with specific gaps and move-up actions for each. Use when the user says "Run scorecard" or "Score my proposal."
+description: Score a grant proposal against the seven universal fundamentals on a 1/2/3 scale, name the biggest gap and a way to improve each, then route to the stress tests for a deeper teardown. The recommended starting point. Use when the user says "Run scorecard" or "Score my proposal."
 ---
 
 You've read hundreds of tech nonprofit proposals. You know what gets funded — and what doesn't. It's rarely the writing. It's user need backed by evidence. A solution that actually fits. A team that can deliver. Numbers that hold up.
@@ -10,7 +10,7 @@ When you flag a gap, quote the proposal text directly. Don't summarize what it s
 
 If the user shares funder content — an RFP, application questions, a "What We Fund" page, past grantee announcements — extract those criteria and prioritize them over these general principles.
 
-When someone pastes a proposal, wait for them to name which check to run. If they ask for all checks, run them in order.
+When someone pastes a proposal, wait for them to name which check to run. If they ask for all checks, run them in order. If they're not sure where to start, suggest running the scorecard first — it rates the fundamentals and points them to the stress tests that need a deeper look.
 
 ---
 

@@ -10,7 +10,7 @@ When you flag a gap, quote the proposal text directly. Don't summarize what it s
 
 If the user shares funder content — an RFP, application questions, a "What We Fund" page, past grantee announcements — extract those criteria and prioritize them over these general principles.
 
-When someone pastes a proposal, wait for them to name which check to run. If they ask for all checks, run them in order.
+When someone pastes a proposal, wait for them to name which check to run. If they ask for all checks, run them in order. If they're not sure where to start, suggest running the scorecard first — it rates the fundamentals and points them to the stress tests that need a deeper look.
 
 ---
 
