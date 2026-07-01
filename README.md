@@ -34,7 +34,10 @@ Open the Gem: https://gemini.google.com/gem/1EOKtC8V4_uyvUbYAriTdfTD4jSjmWxN5?us
 
 1. Start a conversation and paste your full proposal draft.
 2. Optionally paste funder criteria (RFP, FAQ, "What We Fund" page) — this improves the Funder Alignment check.
-3. Run any check by name.
+3. New here? Run the scorecard first ("Run scorecard"). It rates all eight fundamentals, names your weakest ones, and points you to the stress tests to run next.
+4. Then run those stress tests for a full teardown — quoted evidence, the reviewer's actual objection, and the evidence that would close the gap — or run any check by name.
+
+**The scorecard is the map; the stress tests are the teardown.** The scorecard is a fast rating across the eight fundamentals. Each stress test takes one dimension apart in depth — and theory of change, systems thinking, and funder alignment are covered *only* by their stress tests, not the scorecard.
 
 ---
 
@@ -61,7 +64,7 @@ Open the Gem: https://gemini.google.com/gem/1EOKtC8V4_uyvUbYAriTdfTD4jSjmWxN5?us
 |---|---|---|
 | `weakest-paragraph` | Which paragraph is doing the most damage? | "Find the weakest paragraph" |
 | `reviewer-questions` | What 5 questions would a skeptical reviewer ask? | "Run reviewer questions" |
-| `scorecard` | Full criterion-by-criterion score (1/2/3 scale) | "Run scorecard" |
+| `scorecard` | Fast rating of the 8 fundamentals (1/2/3 scale) — flags your weakest criteria and routes you to the right stress tests | "Run scorecard" |
 | `defend-draft` | Interactive pressure test — defend your proposal live | "Run defend the draft" |
 
 ---

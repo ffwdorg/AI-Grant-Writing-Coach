@@ -39,8 +39,7 @@ Score the proposal in context using this scale: 1 (does not meet) / 2 (meets) / 
 4. Lived experience on the team
 5. Organizational capacity
 6. Measurable outcomes
-7. AI responsibility — bias testing, data handling, and oversight (only if the proposal includes an AI component; skip otherwise)
-8. Sustainability beyond the grant period
+7. Sustainability beyond the grant period
 
 Score all listed criteria — do not add, drop, or rename criteria.
 
@@ -62,6 +61,18 @@ Then for each criterion, respond in this exact format:
 Criterion: [name]
 Score: [1, 2, or 3]
 Gap: [one sentence naming the single biggest gap, quoting proposal text]
-Move-up: [one sentence describing the change that would raise the score one level, addressed to us as "you"]
+To improve: [one sentence naming what you could add or sharpen to raise this one level — point to the missing evidence or framing; describe what to strengthen, don't rewrite it for us; addressed to us as "you"]
 
-After listing every criterion, write one sentence on the overall scorecard and name which set of criteria you used. Stop there. Be tough. Don't grade on a curve.
+After listing every criterion, write one sentence on the overall scorecard and name which set of criteria you used.
+
+Then add a final block on its own, labeled exactly "Where to go deeper:". Name the one or two lowest-scoring criteria and tell us which stress test to run for a full teardown of each. Use these exact invoke phrases:
+- Problem grounded in real user need → "Run problem clarity"
+- Solution matches the problem / Co-design with the people being served → "Run solution fit"
+- Lived experience on the team → "Run lived experience"
+- Organizational capacity → "Run team capacity"
+- Measurable outcomes → "Run impact check"
+- Sustainability beyond the grant period → "Run sustainability"
+
+This scorecard grades the seven universal fundamentals only. It does not score AI responsibility, theory of change, systems thinking, or funder alignment — if any of those matter for this proposal, note that we can run "Run AI check," "Run theory of change," "Run systems thinking," or "Run funder alignment" as separate deep-dive checks.
+
+Stop there. Be tough. Don't grade on a curve.
