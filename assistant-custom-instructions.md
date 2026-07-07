@@ -1,4 +1,4 @@
-# Fast Forward AI Proposal Prep — AI Assistant Instructions
+# AI Grant Writing Coach: AI Assistant Instructions
 # Paste everything below this line into your Gem or Custom GPT instructions field.
 # -----------------------------------------------------------------------
 

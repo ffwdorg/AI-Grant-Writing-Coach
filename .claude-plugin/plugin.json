@@ -1,5 +1,5 @@
 {
-  "name": "ffwd-proposal-prep",
+  "name": "ai-grant-writing-coach",
   "description": "AI Grant Writing Coach by Fast Forward. Stress-test your grant proposal before you submit. A scorecard rates the fundamentals, then deep-dive checks take each one apart with the same lens a funder uses.",
   "version": "1.0.0",
   "author": {
@@ -7,6 +7,6 @@
     "url": "https://ffwd.org"
   },
   "homepage": "https://ffwd.org/tools/proposal-prep",
-  "repository": "https://github.com/ffwdorg/ffwd-proposal-prep",
+  "repository": "https://github.com/ffwdorg/AI-Grant-Writing-Coach",
   "license": "Apache-2.0"
 }

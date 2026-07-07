@@ -25,11 +25,11 @@ claude login
 Launch Claude Code by running `claude`, then add the marketplace and install the plugin:
 
 ```
-/plugin marketplace add ffwdorg/ffwd-proposal-prep
-/plugin install ffwd-proposal-prep@ffwd-proposal-prep
+/plugin marketplace add ffwdorg/AI-Grant-Writing-Coach
+/plugin install ai-grant-writing-coach@ai-grant-writing-coach
 ```
 
-Prefer a menu? Run `/plugin`, open the Marketplaces tab, add `ffwdorg/ffwd-proposal-prep`, then find the plugin under Discover and install it.
+Prefer a menu? Run `/plugin`, open the Marketplaces tab, add `ffwdorg/AI-Grant-Writing-Coach`, then find the plugin under Discover and install it.
 
 ## How to use
 
