@@ -1,0 +1,14 @@
+{
+  "name": "ffwd-proposal-prep",
+  "owner": {
+    "name": "Fast Forward",
+    "url": "https://ffwd.org"
+  },
+  "plugins": [
+    {
+      "name": "ffwd-proposal-prep",
+      "source": "./",
+      "description": "AI Grant Writing Coach by Fast Forward. Stress-test your grant proposal before you submit."
+    }
+  ]
+}
