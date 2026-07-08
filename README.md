@@ -71,7 +71,7 @@ The plugin installs onto your Claude, so you stay on the version you installed u
 
 ## Help Us Improve This Tool
 
-Help Us Improve This Tool. Email us: [hello@ffwd.org](mailto:hello@ffwd.org?subject=AI%20Grant%20Writing%20Coach%20Feedback)
+Email us: [hello@ffwd.org](mailto:hello@ffwd.org?subject=AI%20Grant%20Writing%20Coach%20Feedback)
 
 ## License
 
