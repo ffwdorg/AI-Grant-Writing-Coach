@@ -2,7 +2,7 @@
 
 Don't wait for a rejection to find out what's wrong. Refine your grant proposal now, with the same lens a funder uses.
 
-Built by [Fast Forward](https://ffwd.org) for tech nonprofits. This repository is the Claude plugin.
+Built by [Fast Forward](https://ffwd.org).
 
 ## About
 
