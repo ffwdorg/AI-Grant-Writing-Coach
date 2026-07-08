@@ -1,12 +1,16 @@
 # AI Grant Writing Coach
 
-Don't wait for a rejection to find out what's wrong. Refine your grant proposal now, with the same lens a funder uses.
+Want to get your AI proposal in tip-top shape before you submit to a funder? Refine your proposal draft with the same lens a funder uses.
 
-Built by [Fast Forward](https://ffwd.org) for tech nonprofits. This repository is the Claude plugin.
+Built by [Fast Forward](https://ffwd.org) for tech nonprofits. This repository is the Claude plugin. It refines your draft. It never writes it for you.
 
-## About
+## About the Tool
 
-AI can scale social impact, but only if the work underneath holds up. This coach pressure-tests your grant proposal the way a funder would: is the problem real, does the solution fit, can the team deliver, do the numbers hold up. Start with the scorecard for a fast read on the fundamentals, then run the deeper checks for a full teardown. It refines your draft. It never writes it for you.
+Make the case for what you're building, then adapt it with 14 prompts modeled on the principles funders actually weigh. The prompts work across all major AI models and surface what needs more work before you submit, pressure-testing your draft across problem clarity, solution fit, impact, and more.
+
+## Before you start
+
+Remove any personally identifying information from your proposal if your organization's policies require it.
 
 ## Install in Claude
 
@@ -34,17 +38,19 @@ Prefer a menu? Run `/plugin`, open the Marketplaces tab, add `ffwdorg/AI-Grant-W
 ## How to use
 
 1. Paste your full proposal draft into Claude.
-2. Applying to a specific funder? Paste their criteria too (RFP, FAQ, or "What We Fund" page). The coach grades you against their priorities, not just the general ones.
+2. Applying to a specific funder? Paste their RFP or "What We Fund" page along with your draft, and the coach evaluates you against their specific criteria.
 3. Type "Run scorecard" to start. It rates the fundamentals, flags your weakest, and points you to the checks to run next.
 
-## Get Feedback (4 checks)
+Ask for any check in plain language, for example "Run the scorecard" or "Check my theory of change."
 
+## Get Feedback
+
+- Assess my proposal against all criteria.
 - Which paragraph falls flat?
 - What 5 questions would a skeptical reviewer ask?
-- Full criterion-by-criterion score (1/2/3 scale)
-- Interactive test: Defend your proposal
+- Stress-test my proposal in an interactive debate.
 
-## Stress-Test & Refine (10 checks)
+## Stress-Test & Refine
 
 - Is the problem grounded in real user need?
 - Does the solution match the problem?
