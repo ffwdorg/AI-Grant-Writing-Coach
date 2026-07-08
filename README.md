@@ -14,26 +14,28 @@ Remove any personally identifying information from your proposal if your organiz
 
 ## Install in Claude
 
-You need Claude Code first. Install it with one of:
+The coach installs as a plugin. Choose the Claude surface you use.
 
-- Homebrew: `brew install @anthropic-ai/claude-code`
-- npm: `npm install -g @anthropic-ai/claude-code`
-- Native installer: https://code.claude.com/docs/en/setup.md
+### Claude Code (terminal, desktop, or IDE)
 
-Then sign in:
+Install Claude Code first: `brew install @anthropic-ai/claude-code`, or `npm install -g @anthropic-ai/claude-code`, or the native installer at https://code.claude.com/docs/en/setup.md. Then sign in with `claude login`.
 
-```
-claude login
-```
-
-Launch Claude Code by running `claude`, then add the marketplace and install the plugin:
+Launch Claude Code by running `claude`, then:
 
 ```
 /plugin marketplace add ffwdorg/AI-Grant-Writing-Coach
 /plugin install ai-grant-writing-coach@ai-grant-writing-coach
 ```
 
-Prefer a menu? Run `/plugin`, open the Marketplaces tab, add `ffwdorg/AI-Grant-Writing-Coach`, then find the plugin under Discover and install it.
+### Cowork (claude.ai web app)
+
+Plugin installs happen in Settings, not inside a chat.
+
+1. Go to Settings, then Capabilities, then Plugins.
+2. Click Add, then Add marketplace, and enter: `ffwdorg/AI-Grant-Writing-Coach`
+3. Open the Browse or Personal tab, find `ai-grant-writing-coach`, and install it.
+
+The GitHub connector is a separate feature and is not required to install this plugin.
 
 ## How to use
 
@@ -42,6 +44,10 @@ Prefer a menu? Run `/plugin`, open the Marketplaces tab, add `ffwdorg/AI-Grant-W
 3. Type "Run scorecard" to start. It rates the fundamentals, flags your weakest, and points you to the checks to run next.
 
 Ask for any check in plain language, for example "Run the scorecard" or "Check my theory of change."
+
+## Staying updated
+
+The plugin installs onto your Claude, so you stay on the version you installed until you update it. When we push improvements, refresh the marketplace and update the plugin from the same place you installed it. The hosted versions (the website, the Custom GPT, and the Gem) update automatically. Only the installed plugin needs a manual refresh.
 
 ## Get Feedback
 
