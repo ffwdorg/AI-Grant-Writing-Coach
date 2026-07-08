@@ -41,10 +41,10 @@ Prefer a menu? Run `/plugin`, open the Marketplaces tab, add `ffwdorg/AI-Grant-W
 
 ## Get Feedback (4 checks)
 
+- Assess my proposal against all criteria.
 - Which paragraph falls flat?
 - What 5 questions would a skeptical reviewer ask?
-- Full criterion-by-criterion score (1/2/3 scale)
-- Interactive test: Defend your proposal
+- Stress-test my proposal in an interactive debate.
 
 ## Stress-Test & Refine (10 checks)
 
