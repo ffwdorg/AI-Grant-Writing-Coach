@@ -2,11 +2,11 @@
 
 Want to get your AI proposal in tip-top shape before you submit to a funder? Refine your proposal draft with the same lens a funder uses.
 
-Built by [Fast Forward](https://ffwd.org) for tech nonprofits. This repository is the Claude plugin. It refines your draft. It never writes it for you.
+Built by [Fast Forward](https://ffwd.org).
 
 ## About the Tool
 
-Make the case for what you're building, then adapt it with 14 prompts modeled on the principles funders actually weigh. The prompts work across all major AI models and surface what needs more work before you submit, pressure-testing your draft across problem clarity, solution fit, impact, and more.
+Make the case for what you're building, then adapt it with 14 prompts modeled on the principles funders are considering. The prompts surface what needs more work before you submit. They pressure-test your draft across problem clarity, solution fit, impact, and more.
 
 ## Before you start
 
@@ -29,9 +29,9 @@ Launch Claude Code by running `claude`, then:
 
 ### Cowork (claude.ai web app)
 
-Plugin installs happen in Settings, not inside a chat.
+Plugin installs happen in Settings.
 
-1. Go to Settings, then Capabilities, then Plugins.
+1. Go to Settings, then Plugins.
 2. Click Add, then Add marketplace, and enter: `ffwdorg/AI-Grant-Writing-Coach`
 3. Open the Browse or Personal tab, find `ai-grant-writing-coach`, and install it.
 
