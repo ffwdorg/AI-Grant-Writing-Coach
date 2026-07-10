@@ -1,7 +1,7 @@
 {
   "name": "ai-grant-writing-coach",
   "description": "AI Grant Writing Coach by Fast Forward. Stress-test your grant proposal before you submit. A scorecard rates the fundamentals, then deep-dive checks take each one apart with the same lens a funder uses.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "Fast Forward",
     "url": "https://ffwd.org"
