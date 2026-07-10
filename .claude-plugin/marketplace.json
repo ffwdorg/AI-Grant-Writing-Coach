@@ -8,7 +8,7 @@
     {
       "name": "ai-grant-writing-coach",
       "source": "./",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "description": "AI Grant Writing Coach by Fast Forward. Stress-test your grant proposal before you submit."
     }
   ]
