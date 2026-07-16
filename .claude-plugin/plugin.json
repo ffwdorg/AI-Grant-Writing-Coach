@@ -1,12 +1,12 @@
 {
   "name": "ai-grant-writing-coach",
-  "description": "AI Grant Writing Coach by Fast Forward. Stress-test your grant proposal before you submit. A scorecard rates the fundamentals, then deep-dive checks take each one apart with the same lens a funder uses.",
-  "version": "1.0.3",
+  "description": "AI Grant Writing Coach by Fast Forward. Stress-test your grant proposal before you submit. An assessment rates the fundamentals on a Developing / Strong / Standout scale \u2014 and reads funder fit when you paste an RFP \u2014 then deep-dive prompts take each area apart with the same lens a funder uses.",
+  "version": "1.1.0",
   "author": {
     "name": "Fast Forward",
     "url": "https://ffwd.org"
   },
   "homepage": "https://www.ffwd.org/ai-grant-writing-coach",
   "repository": "https://github.com/ffwdorg/AI-Grant-Writing-Coach",
-  "license": "Apache-2.0"
+  "license": "CC-BY-4.0"
 }

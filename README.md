@@ -12,6 +12,10 @@ Make the case for what you're building, then adapt it with 14 prompts modeled on
 
 Remove any personally identifying information from your proposal if your organization's policies require it.
 
+## Before installing: the easier paths
+
+This plugin is the advanced, self-managed way to use the coach. Setup runs through GitHub, and updates are manual. For the easiest experience, always running the latest version with zero setup, use the [ChatGPT version](https://chatgpt.com/g/g-6a5913dbdcec8191992bd7a48704e64b-ai-grant-writing-coach), the [Gemini version](https://gemini.google.com/gem/1EOKtC8V4_uyvUbYAriTdfTD4jSjmWxN5?usp=sharing), or the [copy-paste prompts on our website](https://www.ffwd.org/ai-grant-writing-coach). Install the plugin if you work in Claude daily and want the prompts as native slash commands.
+
 ## Install in Claude
 
 The coach installs as a plugin. Choose the Claude surface you use.
@@ -41,20 +45,28 @@ The GitHub connector is a separate feature and is not required to install this p
 
 1. Paste your full proposal draft into Claude.
 2. Applying to a specific funder? Paste their RFP or "What We Fund" page along with your draft, and the coach evaluates you against their specific criteria.
-3. Type "Run scorecard" to start. It rates the fundamentals, flags your weakest, and points you to the checks to run next.
+3. Type "Run assessment" to start. It rates the fundamentals, names your weakest areas, and points you to the prompts to run next.
 
-Ask for any check in plain language, for example "Run the scorecard" or "Check my theory of change."
+Ask for any prompt in plain language, for example "Run the assessment" or "Check my theory of change."
 
 ## Staying updated
 
-The plugin installs onto your Claude, so you stay on the version you installed until you update it. When we push improvements, refresh the marketplace and update the plugin from the same place you installed it. The hosted versions (the website, the Custom GPT, and the Gem) update automatically. Only the installed plugin needs a manual refresh.
+The hosted versions (the website prompts, the Custom GPT, and the Gemini Gem) always run the latest release. You don't need to do anything.
+
+The installed plugin is a snapshot: you stay on the version you installed until you refresh it. Claude's in-app Update button doesn't reliably detect new versions of external plugins (a known Claude issue), so when we release a new version, update by reinstalling:
+
+1. Settings, then Plugins: remove the ai-grant-writing-coach marketplace.
+2. Re-add it: `ffwdorg/AI-Grant-Writing-Coach`
+3. Reinstall the plugin.
+
+Your installed version shows in the plugin details panel. The latest version is in this repo's `.claude-plugin/plugin.json`.
 
 ## Get Feedback
 
-- Assess my proposal against all criteria.
+- Assess my proposal against the fundamentals a funder weighs.
 - Which paragraph falls flat?
 - What 5 questions would a skeptical reviewer ask?
-- Stress-test my proposal in an interactive debate.
+- Stress-test my proposal in an interactive critique.
 
 ## Stress-Test & Refine
 
@@ -71,8 +83,8 @@ The plugin installs onto your Claude, so you stay on the version you installed u
 
 ## Help Us Improve This Tool
 
-Something fall flat? A check needs work? Email us: [hello@ffwd.org](mailto:hello@ffwd.org?subject=AI%20Grant%20Writing%20Coach%20Feedback)
+Something fall flat? A prompt needs work? Email us: [hello@ffwd.org](mailto:hello@ffwd.org?subject=AI%20Grant%20Writing%20Coach%20Feedback)
 
 ## License
 
-Apache 2.0
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): use, share, and adapt these prompts freely, with credit to Fast Forward.
